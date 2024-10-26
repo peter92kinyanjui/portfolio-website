@@ -1,0 +1,59 @@
+.paragraph{
+    margin-top: 40px;
+    color: whitesmoke;
+    background-color: cadetblue;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 50px;
+    font-family: "Bodoni MT";
+}
+.h2{
+    margin: 50px;
+    color: crimson;
+    font-stretch: condensed;
+    font-family: "Arial Narrow";
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.header{
+    padding: 30px;
+    font-family: "Bodoni MT";
+    font-weight: bold;
+    font-size: 25px;
+    backface-visibility: visible;
+    background-color: whitesmoke;
+}
+
+.paragraph1{
+    margin-top: 20px;
+    color: brown;
+    background-color: lightgray;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 10px;
+    font-family: "Bodoni MT";
+    border: cadetblue solid;
+}
+.footer{
+    margin: 10px;
+    color: crimson;
+    font-stretch: condensed;
+    font-family: "Arial Narrow";
+    font-size: 12px;
+    text-align: center;
+}
+.image{
+    margin-top: 20px;
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+}
+.h5{
+    padding: 40px;
+    background-color: blanchedalmond;
+    border-bottom: cadetblue solid;
+    text-align: center;
+}
